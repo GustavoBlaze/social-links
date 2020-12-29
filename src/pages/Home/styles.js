@@ -73,7 +73,7 @@ export const ButtonsContainer = styled.div`
   grid-gap: 4rem;
 
   @media (max-width: 540px) {
-    margin-top: 3.2rem;
+    margin-top: 2.4rem;
     grid-template-columns: 1fr;
     grid-gap: 2.4rem;
   }
