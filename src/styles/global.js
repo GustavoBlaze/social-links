@@ -19,9 +19,12 @@ export default createGlobalStyle`
   html {
     background: #040404;
   }
+  
   body {
     -webkit-font-smoothing: antialiased;
+    overflow-anchor: none;
   }
+
   body, input, button {
     font: 1.6rem 'Roboto', sans-serif;
   }
